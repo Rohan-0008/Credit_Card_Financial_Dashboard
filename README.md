@@ -1,16 +1,15 @@
 # 💳 Credit Card Data Analysis (SQL + Power BI)
 
-An end-to-end data analytics project analyzing credit card customers and transactions using **SQL and Power BI**.
+An end-to-end data analytics project analyzing credit card customers and transactions using **MySQL and Power BI**.
 
 ## Tools Used
 - MySQL
-- SQL
 - Power BI
 - CSV
 
 ## What I Did
 - Designed a relational database for customer and transaction data  
-- Cleaned and transformed raw CSV data using SQL  
+- Cleaned and transformed raw CSV data using MySQL  
 - Analyzed spending patterns and transaction trends  
 - Built an interactive Power BI dashboard for business insights  
 
