@@ -5,7 +5,6 @@ An end-to-end data analytics project analyzing credit card customers and transac
 ## Tools Used
 - MySQL
 - Power BI
-- CSV
 
 ## What I Did
 - Designed a relational database for customer and transaction data  
